@@ -17,7 +17,7 @@ def lines_printed_random(lines_list):
     for line in lines_list:
         print(line)
 
-
+heloo
 
 
 file_lines = get_file_lines('poem.txt')
